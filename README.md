@@ -1,3 +1,2 @@
 # DINO GAME
-Game Snapshots
-Snapshot 1 - Start
+## Snapshot 1 - Start
